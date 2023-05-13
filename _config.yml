@@ -28,7 +28,21 @@ linkedin_username: nataliaeg
 twitter_username: verrynatalia
 github_username:  verrynatalia
 
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+
 author: Natalia Echeverry
+
+# New fields not defaulted by jekyll-new with the minima theme.
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+
+# copyright: "LearnScope LLC"
+
+# title-logo is a new field that, when used, displays a logo
+# instead of custom text. Ideally, image is 50px high and takes up
+# title-logo: /images/my-logo.png (or jpg, etc)
+# title-logo: /images/title-logo.png
 
 # Build settings
 theme: minima
