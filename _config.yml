@@ -21,7 +21,7 @@
 title: Natalia Echeverry
 email: ne9320@rit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site.
+  Learning designer and project manager based in Pittsburgh, PA.
 baseurl: "/verrynatalia" # the subpath of your site, e.g. /blog
 url: "https://verrynatalia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: nataliaeg
@@ -35,13 +35,14 @@ author: Natalia Echeverry
 
 # New fields not defaulted by jekyll-new with the minima theme.
 # Add a copyright. A copyright symbol and year will be added automatically
-# copyright: Company Name, Inc.
 
-copyright: "2023 Portfolio - Natalia Echeverry"
+copyright: "Natalia Echeverry"
 
 # title-logo is a new field that, when used, displays a logo
-# instead of custom text. Ideally, image is 50px high and takes up
-# title-logo: /images/my-logo.png (or jpg, etc)
+# instead of custom text. Ideally, image is 50px high and takes up 
+# minimal horizontal space. Tested with a new root "images" folder e.g.:
+# title-logo: /images/title_logo.png (or JPG, etc.)
+
 # title-logo: /images/title-logo.png
 
 # Build settings
