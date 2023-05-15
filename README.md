@@ -1,4 +1,6 @@
-### Hi there 👋
+My name is Natalia Echeverry and I'm a learning designer based in Pittsburgh, PA. 👋
+
+📫 How to reach me: Twitter [@verrynatalia](https://twitter.com/verrynatalia) 
 
 <!--
 **verrynatalia/verrynatalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
