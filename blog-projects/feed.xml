@@ -18,6 +18,7 @@ layout: null
 </author>
 {%- for post in site.posts limit: 20 -%}{%- if post.category=="projects" -%}
 <entry>
+        
         <title>{{post.title}}</title>
         <id>{{- site.url -}}{{- site.baseurl -}}{{- post.url -}}</id>
         <link href="{{- site.url -}}{{- site.baseurl -}}{{- post.url -}}"/>

@@ -21,9 +21,11 @@
 title: Natalia Echeverry
 email: ne9320@rit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Learning designer and project manager based in Pittsburgh, PA.
+  Learning designer and graduate student in Human-Computer Interaction based in Pittsburgh, PA.
+
 baseurl: "/verrynatalia" # the subpath of your site, e.g. /blog
 url: "https://verrynatalia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 linkedin_username: nataliaeg
 twitter_username: verrynatalia
 github_username:  verrynatalia
@@ -52,6 +54,7 @@ plugins:
   - jekyll-feed
 
 minima:
+
 # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
@@ -61,11 +64,11 @@ minima:
 # order as they should show up.
 #
 # header_pages:
-#   - about.md
+#  - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #
-# show_excerpts: false
+# show_excerpts: 'true'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
