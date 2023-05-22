@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
@@ -14,7 +15,7 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
   margin-bottom: 0;
   float: left;
 
@@ -100,12 +101,10 @@
   }
 }
 
-
-
 /**
  * Site footer
  */
-.site-footer {
+ .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
@@ -135,8 +134,8 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
@@ -145,8 +144,8 @@
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+  width:         calc(55% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -171,12 +170,11 @@
 }
 
 
-
 /**
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit*1.5;
   flex: 1;
 }
 
@@ -186,11 +184,13 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  margin-bottom: $spacing-unit;
 }
 
 .post-list {
   margin-left: 0;
   list-style: none;
+  margin-inline-start: auto;
 
   > li {
     margin-bottom: $spacing-unit;
@@ -203,8 +203,9 @@
 }
 
 .post-link {
+  font-weight: bold;
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1);
 }
 
 
@@ -220,6 +221,7 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  margin-top: $spacing-unit;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -252,4 +254,41 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+.profile-image {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  margin-right: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  border-radius: 0.25em;
+	vertical-align: middle;
+  float: left;
+  overflow: auto;
+}
+
+.featured-image-post {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 0.25em;
+	vertical-align: middle;
+}
+
+.blog-roll-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  float: left;
+  border-top: 1px solid $grey-color-light;
+  margin-right: $spacing-unit/2;
+  border-radius: 0.25em;
+	vertical-align: middle;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }

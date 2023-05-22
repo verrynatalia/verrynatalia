@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<!-- ![alt text](/assets/images/default-greg-rosenke.jpg){: width="50%"} -->
+
+#### I am a learning designer and graduate student in Human-Computer Interaction at the Rochester Institute of Technology, specializing in Instructional Systems Design (ISD) for effective online learning experiences.

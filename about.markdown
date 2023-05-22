@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a learning designer with a background in project management. I am a Human-Computer Interaction graduate student at the Rochester Institute of Technology specializing in Instructional Systems Design (ISD).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am skilled in creating engaging and effective online learning experiences. I have designed accessible online learning modules using modern authoring tools and learning management systems.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+After completing all my MS-HCI core classes, I am excited to apply my newly developed skills in usability testing and user research to online courses. I am also interested in using visual analytics tools to explore online course data.
 
-
-[jekyll-organization]: https://github.com/jekyll
+#### MS Human-Computer Interaction Curriculum
+- Research Methods
+- Current Topics in HCI
+- Foundations of Human-Computer Interaction
+- Information and Interaction Design
+- Usability Testing
+- Fundamentals of Instructional Technology
+- Interactive Courseware
+- Visual Analytics
+- Geographic Visualization
+- MS HCI Directed Final Project (to be taken by Spring 2024)

@@ -15,6 +15,12 @@ layout: default
       {%- for post in site.posts -%}
       {%- if post.category=="projects" -%}
       <li>
+        {%- if post.image -%}
+        <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+        {%- else -%}
+          {%- assign postImage = "/assets/images/default-greg-rosenke.jpg" -%}
+          <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
+        {%- endif -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -30,7 +36,7 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "blog-projects/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe">Subscribe <a href="{{ "blog-projects/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>
