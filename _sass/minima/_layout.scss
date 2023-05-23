@@ -183,8 +183,9 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  @include relative-font-size(1.25);
   margin-bottom: $spacing-unit;
+  color: $grey-color-dark;
 }
 
 .post-list {
