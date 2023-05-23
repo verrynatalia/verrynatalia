@@ -15,7 +15,7 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -0.5px;
+  letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
@@ -174,7 +174,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit*1.5;
+  padding: $spacing-unit;
   flex: 1;
 }
 
@@ -207,8 +207,6 @@
   display: block;
   @include relative-font-size(1);
 }
-
-
 
 /**
  * Posts
@@ -257,8 +255,8 @@
 }
 
 .profile-image {
-  width: 200px;
-  height: 150px;
+  width: 150px;
+  height: 215px;
   object-fit: cover;
   margin-right: $spacing-unit;
   margin-bottom: $spacing-unit;
