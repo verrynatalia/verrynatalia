@@ -5,6 +5,11 @@
 layout: home
 ---
 
-<!-- ![alt text](/assets/images/default-greg-rosenke.jpg){: width="50%"} -->
+I am a graduate student in Human-Computer Interaction at the [Rochester Institute of Technology][RIT], specializing in Instructional Systems Design (ISD) with a background in learning design and project management. My focus is on creating online courses that enhance the learning experience of adult learners in academic and professional contexts.
 
-#### I am a learning designer and graduate student in Human-Computer Interaction at the Rochester Institute of Technology, specializing in Instructional Systems Design (ISD) for effective online learning experiences.
+[LinkedIn][linkedin] \| [Twitter][twitter] \| [Medium][medium]
+
+[RIT]: https://www.rit.edu/
+[linkedin]: https://www.linkedin.com/in/nataliaeg
+[twitter]: https://twitter.com/verrynatalia
+[medium]: https://medium.com/@verrynatalia
