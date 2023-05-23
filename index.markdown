@@ -7,7 +7,7 @@ layout: home
 
 I am a graduate student in Human-Computer Interaction at the [Rochester Institute of Technology][RIT], specializing in Instructional Systems Design (ISD). My focus is on creating online courses that enhance the learning experience of adult learners in both academic and professional contexts. 
 
-I aim to utilize evidence-based instructional techniques, select the appropriate media types and incorporate the right interactive approaches to optimize the effectiveness of courses.
+I strive to employ evidence-based instructional techniques, appropriate media types, and interactivity approaches in the design of new online courses.
 
 [LinkedIn][linkedin] \| [Twitter][twitter] \| [Medium][medium]
 
