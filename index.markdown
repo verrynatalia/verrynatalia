@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a graduate student in Human-Computer Interaction at the [Rochester Institute of Technology][RIT], specializing in educational technology. My focus is on creating computer-based instruction for adult learners in both academic and professional contexts.
+I am a graduate student in Human-Computer Interaction at the [Rochester Institute of Technology][RIT], specializing in educational technology. My focus is on creating computer-based instruction for adult learners in both academic and professional contexts. 
 
 I strive to employ evidence-based instructional techniques, appropriate media types, and interactivity approaches when building new online courses.
 
