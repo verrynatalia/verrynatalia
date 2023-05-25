@@ -183,7 +183,7 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.25);
+  @include relative-font-size(1.5);
   margin-bottom: $spacing-unit;
   color: $grey-color-dark;
 }
@@ -256,7 +256,7 @@
 }
 
 .profile-image {
-  width: 150px;
+  width: 175px;
   height: 215px;
   object-fit: cover;
   margin-right: $spacing-unit;
