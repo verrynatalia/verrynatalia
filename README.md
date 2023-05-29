@@ -1,4 +1,4 @@
-I'm a graduate student in Human-Computer Interaction based in Pittsburgh, PA.
+Natalia Echeverry a graduate student in Human-Computer Interaction based in Pittsburgh, PA.
 
 <!--
 **verrynatalia/verrynatalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
