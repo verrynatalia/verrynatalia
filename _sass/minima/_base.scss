@@ -208,18 +208,24 @@ pre {
  * Icons
  */
 
-.svg-icon {
-    width: 16px;
-    height: 16px;
+ .svg-icon {
+  width: 24px; /* Increase the width to make the icons bigger */
+  height: 24px; /* Increase the height to make the icons bigger */
+  fill: #{$grey-color};
+  padding-right: 5px;
+  vertical-align: middle; /* Adjust vertical alignment as desired */
+  transition: all 0.2s ease-in-out; /* Add transition for smooth hover effect */
+}
 
-    fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;
+.svg-icon:hover {
+  transform: scale(1.2); /* Increase the size of the icon on hover */
+  fill: black; /* Add any additional hover styles as desired */
 }
 
 .social-media-list {
   li + li {
-    padding-top: 5px;
+    padding-top: $spacing-unit*0.5;
+    padding-bottom: $spacing-unit; /* Adjust the padding between list items as desired */
   }
 }
 

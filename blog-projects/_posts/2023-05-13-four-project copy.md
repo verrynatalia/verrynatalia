@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My second project!"
-date:   2023-05-13 20:29:22
+title:  "Primer on false positives and false negatives for social workers using AI for decision-making"
+date:   2023-03-04 20:33:00
 category: projects
 image: /assets/images/lego-2-iker-urteaga.jpg
 ---

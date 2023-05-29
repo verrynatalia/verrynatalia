@@ -4,7 +4,7 @@
 
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 0px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -114,10 +114,14 @@
   margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
-.social-media-list {
+.contact-list {
   list-style: none;
   margin-left: 0;
+}
+
+.social-media-list li {
+  display: inline-block;
+  margin-right: 10px;
 }
 
 .footer-col-wrapper {
@@ -184,6 +188,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.5);
+  margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
   color: $grey-color-dark;
 }
@@ -256,22 +261,21 @@
 }
 
 .profile-image {
-  width: 175px;
-  height: 215px;
+  display: block;
+  margin: 0 auto $spacing-unit;
+  width: 115px;
+  height: 115px;
   object-fit: cover;
-  margin-right: $spacing-unit;
-  margin-bottom: $spacing-unit;
-  border-radius: 0.25em;
-	vertical-align: middle;
-  float: left;
-  overflow: auto;
-}
+  border-radius: 50%;
+  overflow: hidden;
+  border: 4px solid #000;
+  }
 
 .featured-image-post {
   width: 100%;
-  height: 150px;
+  height: 250px;
   object-fit: cover;
-  border-radius: 0.25em;
+  border-radius: 0em;
 	vertical-align: middle;
 }
 
@@ -282,7 +286,7 @@
   float: left;
   border-top: 1px solid $grey-color-light;
   margin-right: $spacing-unit/2;
-  border-radius: 0.25em;
+  border-radius: 0em;
 	vertical-align: middle;
 }
 
