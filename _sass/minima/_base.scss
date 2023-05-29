@@ -209,23 +209,23 @@ pre {
  */
 
  .svg-icon {
-  width: 24px; /* Increase the width to make the icons bigger */
-  height: 24px; /* Increase the height to make the icons bigger */
+  transform: scale(1.2);
+  width: 24px;
+  height: 24px;
   fill: #{$grey-color};
   padding-right: 5px;
-  vertical-align: middle; /* Adjust vertical alignment as desired */
-  transition: all 0.2s ease-in-out; /* Add transition for smooth hover effect */
+  vertical-align: middle;
+  transition: all 0.2s ease-in-out;
 }
 
 .svg-icon:hover {
-  transform: scale(1.2); /* Increase the size of the icon on hover */
-  fill: black; /* Add any additional hover styles as desired */
+  fill: black;
 }
 
 .social-media-list {
   li + li {
     padding-top: $spacing-unit*0.5;
-    padding-bottom: $spacing-unit; /* Adjust the padding between list items as desired */
+    padding-bottom: $spacing-unit;
   }
 }
 
