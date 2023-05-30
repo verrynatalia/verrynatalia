@@ -18,22 +18,26 @@ layout: default
 
 <div class="clearfix">
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "What's new" }}</h2>
+    <p class="post-list-heading">{{ page.list_title | default: "What's new" }}</p>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- if post.image -%}
+        <!-- {%- if post.image -%}
         <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
         {%- else -%}
           {%- assign postImage = "/assets/images/default-greg-rosenke.jpg" -%}
           <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
         {%- endif -%}
+        -->
         <p>
+          {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%} 
+          <span class="post-meta">
+            {{ post.date | date: date_format }}
+          </span>
+          <span class="separator">  >>  </span>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
         </p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}

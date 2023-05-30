@@ -208,18 +208,24 @@ pre {
  * Icons
  */
 
-.svg-icon {
-    width: 16px;
-    height: 16px;
+ .svg-icon {
+  transform: scale(1.2);
+  width: 24px;
+  height: 24px;
+  fill: #{$grey-color};
+  padding-right: 5px;
+  vertical-align: middle;
+  transition: all 0.2s ease-in-out;
+}
 
-    fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;
+.svg-icon:hover {
+  fill: black;
 }
 
 .social-media-list {
   li + li {
-    padding-top: 5px;
+    padding-top: $spacing-unit*0.5;
+    padding-bottom: $spacing-unit;
   }
 }
 
