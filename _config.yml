@@ -58,13 +58,14 @@ minima:
 # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
-date_format: "%b %-d, %Y"
+date_format: "%-d %b %Y"
   
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
-#  - about.md
+header_pages:
+  - CV.markdown
+  - about.markdown
 
 # Set to `true` to show excerpts on the homepage.
 #
