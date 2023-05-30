@@ -183,7 +183,8 @@
 }
 
 .page-heading {
-  @include relative-font-size(2);
+  @include relative-font-size(1.5);
+  margin-bottom: $spacing-unit;
 }
 
 .post-list-heading {
@@ -205,15 +206,13 @@
   }
 }
 
-.post-meta {
+projects-page-remake
+.post-meta, .separator {
 //  font-size: $small-font-size;
   @include relative-font-size(1);
   color: $grey-color-dark;
-}
-
-.separator {
-  font-size: $small-font-size;
-  color: $grey-color-dark;
+  font-family: $time-stamps-family;
+  font-weight: 200;
 }
 
 .post-link {
@@ -293,7 +292,7 @@
   height: 50px;
   object-fit: cover;
   float: left;
-  border-top: 1px solid $grey-color-light;
+  border: 1px solid $grey-color-dark;
   margin-right: $spacing-unit/2;
   border-radius: 0em;
 	vertical-align: middle;

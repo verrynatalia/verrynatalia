@@ -21,6 +21,7 @@ layout: default
     <p class="post-list-heading">{{ page.list_title | default: "What's new" }}</p>
     <ul class="post-list">
       {%- for post in site.posts -%}
+      {%- if post.category=="blog" -%}
       <li>
         <!-- {%- if post.image -%}
         <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
@@ -34,7 +35,8 @@ layout: default
           <span class="post-meta">
             {{ post.date | date: date_format }}
           </span>
-          <span class="separator">  >>  </span>
+        projects-page-remake
+          <span class="separator">   >>   </span>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
@@ -43,9 +45,36 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
-    <!-- <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
   </div>
+
+  <div class="clearfix">
+    {%- if site.posts.size > 0 -%}
+      <p class="post-list-heading">{{ page.list_title | default: "Featured work" }}</p>
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        {%- if post.category=="projects" -%}
+        <li>
+          <p>
+            {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%} 
+            <span class="post-meta">
+              {{ post.date | date: date_format }}
+            </span>
+            <span class="separator">   >>   </span>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </p>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+    </div>
 </div>
