@@ -206,14 +206,21 @@
   }
 }
 
-projects-page-remake
-.post-meta, .separator {
+.post-meta {
 //  font-size: $small-font-size;
   @include relative-font-size(1);
   color: $grey-color-dark;
-  font-family: $base-font-family;
-  font-weight: 200;
+  font-family: $time-stamp-family;
+  font-weight: 300;
 }
+
+.separator {
+  //  font-size: $small-font-size;
+    @include relative-font-size(1);
+    color: $grey-color-dark;
+    font-family: $time-stamp-family;
+    font-weight: 300;
+  }
 
 .post-link {
   font-weight: normal;
