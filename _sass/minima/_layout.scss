@@ -211,7 +211,7 @@ projects-page-remake
 //  font-size: $small-font-size;
   @include relative-font-size(1);
   color: $grey-color-dark;
-  font-family: $time-stamps-family;
+  font-family: $base-font-family;
   font-weight: 200;
 }
 
