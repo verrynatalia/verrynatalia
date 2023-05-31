@@ -185,17 +185,7 @@
 .page-category {
   @include relative-font-size(1);
   font-weight: bold;
-  margin-bottom: $spacing-unit/2;
   color: $grey-color-dark;
-}
-
-.page-img-caption {
-  @include relative-font-size(1.125);
-  font-family: $time-stamp-family;
-  margin-top: $spacing-unit / 2;
-  margin-bottom: $spacing-unit;
-  font-weight: 100;
-  color: $grey-color-light;
 }
 
 .page-heading {
@@ -205,10 +195,10 @@
 
 .post-list-heading {
   @include relative-font-size(1);
-  font-weight: bold;
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
   color: $grey-color-dark;
+  font-weight: 700;
 }
 
 .post-list {
@@ -228,6 +218,7 @@
   color: $grey-color-dark;
   font-family: $time-stamp-family;
   font-weight: 300;
+  margin-bottom: $spacing-unit;
 }
 
 .separator {
@@ -257,6 +248,7 @@
   letter-spacing: -1px;
   line-height: 1;
   margin-top: $spacing-unit;
+  font-weight: bold;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -291,12 +283,18 @@
   }
 
   p {
-    @include relative-font-size(0.875);
+    @include relative-font-size(1);
 
     @include media-query($on-laptop) {
-    @include relative-font-size(0.7875);
+      @include relative-font-size(0.8);
     }
   }
+}
+
+.page-img-caption {
+  font-size: $small-font-size;
+  color: $grey-color-light;
+  font-weight: 100;
 }
 
 .profile-image {
@@ -312,6 +310,7 @@
 
 .featured-image-post {
   width: 100%;
+  height: 400px;
   object-fit: cover;
   border-radius: 0em;
 	vertical-align: middle;
