@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h3 style="text-align: center;">I am a graduate student in Human-Computer Interaction at the Rochester Institute of Technology, specializing in educational technology. I strive to employ evidence-based instructional techniques, appropriate media types, and interactivity approaches when building new online courses for adult learners in both academic and professional contexts.</h3>
+<h3 style="text-align: center;">I am a graduate student in Human-Computer Interaction at the Rochester Institute of Technology, specializing in educational technology. I strive to employ evidence-based instructional techniques, appropriate media types, and interactivity approaches when building online courses for adult learners.</h3>
 
 <div style="text-align: center;">
     {%- include social.html -%}

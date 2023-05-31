@@ -2,8 +2,13 @@
 layout: post
 title: About
 category: bio
+image: /assets/images/profile_picture_2.jpg
 ---
 
-As a graduate student in the MS-HCI program at RIT, specializing in educational technology. I am uniquely positioned to create engaging and effective online learning experiences. I have successfully designed accessible (WCAG-compliant) self-paced e-learning modules with modern authoring tools and learning management systems. I have experience working under the ADDIE model, SAM Agile and Rapid Prototyping. In my role as a learning designer and program officer, I have also demonstrated strong project management skills.
+I'm a learning designer and graduate student in Human-Computer interaction specializing in educational technology. I strive to employ evidence-based instructional techniques to build online courses for adult learners.
 
-Additionally, I am proficient with Adobe Creative Suite, Figma/Adobe XD, and Articulate 360. Moving forward, I am excited to expand my skill set to include usability testing and user research, particularly in the area of learning platforms and modules. I am also interested in using visual analytics tools to explore online course data.
+With a background in learning design and project management, I'm uniquely positioned to work alongside content experts and developers to create effective educational resources for online courses in academic and professional contexts.
+
+Years of experience working as an instructional designer, learning developer, and project manager at multilateral organizations have given me a unique perspective on the best technical, pedagogical, and managerial approaches to adopt when creating computer-based training for diverse audiences worldwide.
+
+My approach to learning design is rooted in educational technology and learning sciences. Moving forward, I am excited to combine my work background with my academic experience to take a systematic approach to course creation, implementation, and evaluation by employing research methods and tools for visual analytics to guide the course team across the product cycle.
