@@ -4,11 +4,8 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
-    {%- else -%}
-      {%- assign postImage = "/assets/images/default-greg-rosenke.jpg" -%}
-      <img src="{{- postImage | relative_url -}}" alt="" class="featured-image-post">
+    {%- if page.category -%}
+    <page class="page-category">{{ page.category }}</page>
     {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
@@ -19,6 +16,15 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
+      {%- if page.image -%}
+      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+    {%- else -%}
+      {%- assign postImage = "/assets/images/default-greg-rosenke.jpg" -%}
+      <img src="{{- postImage | relative_url -}}" alt="" class="featured-image-post">
+    {%- endif -%}    
+    {%- if page.img-caption -%}
+    <page class="img-caption">{{ page.img-caption }}</page>
+    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
