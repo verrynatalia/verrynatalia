@@ -1,11 +1,9 @@
 ---
-layout: post
-title:  "Reflections on how LLMs can impact the delivery of education in the future"
+layout: page
+title:  "Thoughts on the impact of LLMs on education"
 date:   2023-06-04 09:29:22 +0000
 category: blog
 ---
-
-#### **To what extent do you think mastery learning will impact the delivery of education in the future and how?**
 
 Mastery learning will continue to impact the delivery of education in the future. Since its proposal in the 1960s, it has been demonstrated to be an approach that fosters learning in all kinds of educational settings [(Bloom, 1968)](#bloom-ref). Mastery learning has significantly improved education by modeling learning in a way that considers learning as a process that builds over time and as a series of steps of increasing difficulty. Mastery learning is a simple approach, yet powerful. "The theory of mastery learning predicts that students who are allowed to master prerequisites before proceeding to the next topic will perform better on subsequent topics" [(Pelánek, 2017, pp. 156-163)](#Pelanek-ref).
 Even today, finding someone who believes mastery learning does not foster long-term  learning is challenging. The complaints (if you call them that way) are mainly about the challenges of implementing mastery learning in traditional educational systems. These challenges can be attributed to a need for teacher support through access to educational technology resources that would allow them to implement personalized programs.

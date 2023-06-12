@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "HCI and Articial Intelligence"
 date:   2023-04-25 11:56:25 +0000
 category: blog

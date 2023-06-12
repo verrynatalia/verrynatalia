@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Technology as a Driver for Economic Growth and Development"
 date:   2023-02-01 20:29:22 +0000
 category: blog
