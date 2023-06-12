@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h3 style="text-align: center;">I am a learning designer and a graduate student in Human-Computer Interaction at the Rochester Institute of Technology, specializing in educational technology.</h3>
+<h3 style="text-align: center;">I am a learning designer and a graduate student in the MS in Human-Computer Interaction at the Rochester Institute of Technology, specializing in instructional technology.</h3>
 
 <div style="text-align: center;">
     {%- include social.html -%}

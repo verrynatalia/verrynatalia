@@ -177,9 +177,11 @@
 /**
  * Page content
  */
+
 .page-content {
-  padding: $spacing-unit;
-  flex: 1;
+  @include relative-font-size(1);
+   padding: $spacing-unit;
+   flex: 1;
 }
 
 .page-category {
@@ -286,14 +288,9 @@
     @include relative-font-size(1);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(0.8);
+      @include relative-font-size(1);
     }
   }
-}
-
-.page-img-caption {
-  font-size: 5px;
-  color: $grey-color-dark;
 }
 
 .profile-image {
