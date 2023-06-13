@@ -17,33 +17,6 @@ layout: default
 </div>
 
 <div class="clearfix">
-  {%- if site.posts.size > 0 -%}
-    <p class="post-list-heading">{{ page.list_title | default: "What's new" }}</p>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      {%- if post.category=="events" -%}
-      <li>
-        <p>
-          {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%} 
-          <span class="post-meta">
-            {{ post.date | date: date_format }}
-          </span>
-          <span class="separator">   >>   </span>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endif -%}
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
-  </div>
-
-<div class="clearfix">
     {%- if site.posts.size > 0 -%}
       <p class="post-list-heading">{{ page.list_title | default: "Featured work" }}</p>
       <ul class="post-list">
