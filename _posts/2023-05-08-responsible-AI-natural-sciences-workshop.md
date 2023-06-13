@@ -2,7 +2,7 @@
 layout: post
 title:  "Takeaways from the Responsible AI in the Natural Sciences Workshop"
 date:   2023-05-08 09:15:00 +0000
-category: events
+category: in progress
 img-caption: This is an additional text to check captions are working well.
 ---
 

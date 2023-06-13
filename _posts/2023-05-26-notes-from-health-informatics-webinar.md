@@ -2,7 +2,7 @@
 layout: post
 title:  "Health Informatics Grand Rounds Webinar on AI-driven Clinical Decision Support"
 date:   2023-05-26 12:00:00 +0000
-category: events
+category: in progress
 img-caption: This is an additional text to check captions are working well.
 ---
 

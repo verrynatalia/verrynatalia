@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Primer on statistical concepts for social workers using AI for decision-making"
+title:  "Primer on statistical concepts for social workers using AI-powered tools for decision-making"
 date:   2023-04-09 09:43:00
 category: projects
 ---
