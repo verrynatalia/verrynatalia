@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usability testing of a university website"
+title:  "Usability Testing of a University Website"
 date:   2022-11-29 20:55:00
 category: projects
 image: assets/images/RIT_timeline.png
@@ -9,25 +9,25 @@ image_remote: assets/images/Remote_Setup.png
 
 #### **Our Motivation**
 
-This usability evaluation was part of the Usability Testing class taught by Mr. Chuck Schneider in the Master’s in Human-Computer Interaction (HCI) at the Rochester Institute of Technology (RIT) in the Spring of 2022. Each group of five students worked for a client on a heuristic evaluation and usability testing of a system.
+This usability evaluation was part of the Usability Testing class taught by Mr. Chuck Schneider in the Master’s in Human-Computer Interaction (HCI) at the Rochester Institute of Technology (RIT) in the spring of 2022. Each group of five students worked for a client on a heuristic evaluation and usability testing of a system.
 
-Our client was the Division of Marketing and Communication at RIT. They wanted to test the usability of RIT’s main website. After the project kickoff, we had regular communications with the client to communicate progress on the milestones shown in the figure above.
+Our client was the Division of Marketing and Communication at RIT. They wanted to test the usability of RIT’s main website. After the project kickoff, we had regular communications with the client to update them on the progress made on the milestones shown in the figure above.
 
 #### **Goals and Research Questions**
 
-The main goal of the usability testing was to evaluate the overall user experience of the website, especially with respect to prospective college students. They wanted to identify pain points, get feedback from prospective students on wayfinding, and identify areas for improvement. The study aimed to explore the following research questions:
+The primary objective of the usability testing was to assess the overall user experience of the website, particularly from the perspective of prospective college students. The intention was to identify pain points, gather feedback from prospective students on wayfinding, and pinpoint areas that require improvement. The study aimed to investigate the following research questions:
 
-1. Can the participant complete each task we assign them during the testing session?
-2. How easily can the participant perform the tasks, and how satisfied are they after completing each task?
+1. Can the participants successfully complete the tasks assigned to them during the testing session?
+2. How easily can participants perform the tasks, and how satisfied are they upon completion of each task?
 3. Do users navigate the site using the search function or the navigation bar to find information?
 
 #### **Test Design and Participants**
 
-The audience we focused on in this usability testing was prospective college students. Initially, the client wanted to include graduate and undergraduate prospective students in the study; however, we narrowed it down to prospective undergraduate students because it would allow us to define better testing tasks.
+The target audience for this usability testing was prospective college students. Initially, the client intended to include both graduate and undergraduate prospective students in the study; however, we opted to focus solely on prospective undergraduate students to ensure more defined testing tasks.
 
-Initially, we wanted to work with high-school students, but due to challenges with recruiting and parental permissions, we decided to include first-year college students as surrogate participants.
+Originally, we planned to involve high school students. However, due to challenges in recruitment and obtaining parental permissions, we decided to include first-year college students as surrogate participants instead.
 
-The study is an exploratory test to discover any usability issues with the website that might be affecting prospective college students. We were able to work with six participants, one high-school senior student, and five first-year college students. These participants were selected from 15 students who responded to the screener survey.
+The study serves as an exploratory test to identify any usability issues on the website that may impact prospective college students. We worked with a total of six participants, including one high school senior student and five first-year college students serving as surrogate participants. These participants were selected from a pool of 15 students who responded to the screener survey.
 
 <!--- **Test Design Summary**
 - **Location:** Remote
@@ -41,7 +41,7 @@ The study is an exploratory test to discover any usability issues with the websi
 
 <center><img src="{{ page.image_remote | relative_url }}" alt="Overall GPA widget variations" style="width:350px;height:auto;"></center><br>
 
-The testing was made remotely, as shown in the figure above; the participant, a moderator, an observer, and a technologist were present in each testing session. The moderator was in charge of conducting and communicating with the participant. The Observer was responsible for recording answers and taking notes. The technologist was responsible for screen recording and granting participants with remote control of a browser displaying the RIT website on one of our laptops.
+The testing was conducted remotely, as depicted in the figure above. Each testing session included the participant, a moderator, an observer, and a technologist. The moderator was responsible for conducting the test and communicating with the participant. The observer recorded answers and took notes. The technologist handled screen recording and granted participants remote control of a browser displayed on one of our laptops, showcasing the RIT website.
 
 #### **Tasks, Scenarios and Success Criteria**
 
@@ -55,7 +55,7 @@ The testing was made remotely, as shown in the figure above; the participant, a 
 
 #### **Results Per-task**
 
-We recorded each session and found the following results:
+We recorded each session and obtained the following results:
 
 | Task Number | Success rate | Avg. clicks | Errors | Header Nav. | Search bar |
 | --- |
@@ -67,7 +67,7 @@ We recorded each session and found the following results:
 
 #### **Post-task and Post-test Results**
 
-After each task, the moderator asked the participant two Likert-scale questions, in which we asked them to rate from 1 to 5 the ease of use and satisfaction.
+After each task, the moderator asked the participant two Likert-scale questions, in which we requested them to rate the ease of use and satisfaction on a scale from 1 to 5.
 
 | Task | Perceived ease of use (1-5) | Perceived satisfaction (1-5) |
 | --- |
@@ -77,15 +77,15 @@ After each task, the moderator asked the participant two Likert-scale questions,
 | 4 | Mean: 4, Median: 4.5, Stdev: 1.5 | Mean: 4.3, Median: 5, Stdev: 1.2 |
 | 5 | Mean: 3.3, Median: 4, Stdev: 1.4 | Mean: 4.1, Median: 4, Stdev: 0.7 |
 
-After completing all tasks, the moderator asks each participant to complete a 10-question SUS questionnaire and two multiple-choice questions about internet habits. The moderator also asked open-ended questions about their overall experience using the website and allowed participants to share thoughts and questions about the website or the study. Below are some takeaways from the post-test questionnaire.
+After completing all tasks, the moderator asks each participant to complete a 10-question SUS questionnaire and two multiple-choice questions regarding their internet habits. Additionally, the moderator asked open-ended questions to gather feedback on the participants' overall experience using the website, allowing them to share their thoughts and raise any questions related to the website or the study. The post-test questionnaire provided the following key insights:
 
-- Eighty-three percent of participants consider the content on the website helpful.
-- University/College websites and their social media accounts are the main sources of information.
-- Participants use both laptops and smartphones to find information online. While only one participant uses a tablet, and none use desktops.
-- The overall RIT.edu SUS score is 80.42, which is 0.42 points above the industry benchmark.
+- Eighty-three percent of participants found the content on the website helpful.
+- University/College websites and their social media accounts were identified as the primary sources of information.
+- Participants utilized both laptops and smartphones as their main devices for finding information online in the past year. Only one participant used a tablet, and none used desktops.
+- The overall SUS score for RIT.edu is 80.42, which surpasses the industry benchmark by 0.42 points.
 
 #### **Recommendations and Future Work**
 
-The usability testing results indicate a need to increase the visibility of important links within user flows. Change or update how prospective students find clubs and organizations.
+The usability testing results highlight the need to enhance the visibility of crucial links within user flows. There is a recommendation to consider changing or updating the process by which prospective students access information about clubs and organizations.
 
-Testing with more participants would cast more robust results, especially in the SUS score. Additionally, a future test of the desktop/laptop and mobile versions of the RIT website is recommended, given the internet habits of young people.
+To achieve more robust results, conducting testing with a larger number of participants is advisable, particularly for evaluating the SUS score. Furthermore, it is recommended to conduct future tests that specifically focus on the desktop/laptop and mobile versions of the RIT website, considering the internet habits of young individuals.
