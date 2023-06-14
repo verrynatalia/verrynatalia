@@ -21,6 +21,4 @@ The instructional objectives of this tutorial are as follows:
 
 This tutorial assumes learners’ familiarity with basic accounting concepts such as the accounting equation, account types, and the two main rules in accounting. Upon accessing the tutorial, learners will encounter a welcome message and learning objectives. A brief introduction will provide an overview of the procedure, followed by a step-by-step presentation. Subsequently, learners will find a demonstration video illustrating how to record business transactions. Finally, learners will be presented with exercises that assess their ability to determine the correctness of a given summary procedure. They will also be asked to answer multiple-choice questions related to recording new transactions in the journal and ledger.
 
-The interactive tutorial can be accessed via [the provided link][module-link]. Please feel free to contact me to obtain the password required to access the module.
-
-[module-link]:https://rise.articulate.com/share/GzBQ-0hZicwvY0wlOZB8ZYoWPXNv9P1j
+The tutorial [Recording business transactions](https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=bbbc94bf-78c9-492b-8db9-7e6b51d59035) is available for review on the cloud. To access the tutorial, you will need to provide your name and email address.|
