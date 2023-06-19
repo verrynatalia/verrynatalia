@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "Today I Learned: Digitizing Handmade Marks"
+date:   2023-04-25 11:56:25 +0000
+category: TIL
+---
+
+When scanning handmade watermarks with Scanner Utility, select 1,200 dpi and TIFF format for better image quality. If the marks are black, set Black & White for kind, as it helps reduce image size.
+
+After opening the scan in Adobe Photoshop, adjust the image resolution to 300 dpi by constraining the aspect ratio, then copy the image width. Type 300 Pixes/Inch and paste the original width.
