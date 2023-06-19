@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Today I Learned: Digitizing Handmade Marks"
-date:   2023-04-25 11:56:25 +0000
+title:  "Digitizing Handmade Marks with Scanner Utility and Adobe Photoshop"
+date:   2023-06-19 11:44:00 +0000
 category: TIL
 ---
 
