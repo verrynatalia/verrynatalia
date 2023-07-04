@@ -28,7 +28,7 @@ url: "https://verrynatalia.github.io" # the base hostname & protocol for your si
 
 linkedin_username: nataliaeg
 twitter_username: verrynatalia
-instagram_username: verrynat
+# instagram_username: verrynat
 github_username: verrynatalia
 
 # Fields minima uses, but are not defaulted with the jekyll new command.
