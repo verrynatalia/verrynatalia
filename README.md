@@ -1,4 +1,4 @@
-Learning designer and graduate student in Human-Computer Interaction based in Pittsburgh, PA.
+I am a learning designer and a graduate student who is currently pursuing an MS in Human-Computer Interaction at Rochester Institute of Technology, specializing in instructional technology.
 
 <!--
 **verrynatalia/verrynatalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
