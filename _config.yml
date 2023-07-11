@@ -27,8 +27,8 @@ baseurl: "/verrynatalia" # the subpath of your site, e.g. /blog
 url: "https://verrynatalia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 linkedin_username: nataliaeg
-twitter_username: verrynatalia
-# instagram_username: verrynat
+#twitter_username: verrynatalia
+instagram_username: verrynat
 github_username: verrynatalia
 
 # Fields minima uses, but are not defaulted with the jekyll new command.
