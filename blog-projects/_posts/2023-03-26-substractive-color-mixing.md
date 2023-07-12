@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Module on Subtractive Color Mixing"
+title:  "Tutorial on Subtractive Color Mixing"
 date:   2023-03-26 07:43:00
 category: projects
 image: assets/images/color_mixing.png
