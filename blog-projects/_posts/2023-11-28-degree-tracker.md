@@ -8,13 +8,9 @@ imageGPA: assets/images/gpa_widget_variation.png
 imageSIS: assets/images/SIS.png
 ---
 
-#### **Our Motivation**
+The Degree Tracker was created as a group project for the Information and Interaction Design course in the Master's in Human-Computer Interaction (HCI) program at the Rochester Institute of Technology (RIT) in the fall of 2022.
 
-The Degree Tracker for RIT college students was created as a speculative project in the Information and Interaction Design class taught by Prof. Garreth Tigwell in the Master’s in Human-Computer Interaction (HCI) at the Rochester Institute of Technology (RIT) in the Fall of 2022.
-
-Our group of five graduate students worked on a solution to enhance the degree management experience for RIT students. Our goal was to design a user-friendly system where students could keep track of their academic progress, academic requirements, enroll in classes, and perform other tasks.
-
-The current processes for degree management involve multiple systems that, in some cases, are challenging to access or navigate. One of the primary systems students use is the Student Information System (SIS). The SIS has a “My Academic Requirements” section where students can view the classes they have already taken and the pending academic requirements. The SIS system allows students to generate an academic requirements report in PDF format. Academic advisors also assist students with degree management by meeting with them to discuss classes and helping them to plan their courses based on degree requirements. After the meetings, academic advisors share a degree planning document in PDF or Excel format with students. The document contains a list of classes, terms, and grades. While the current processes are functional, some students mentioned during the contextual inquiry and usability testing that they would prefer a more straightforward process.
+Our main goal was to design a user-friendly system for degree management for college and graduate students at RIT. We initiated the project by conducting unstructured interviews with students and discovered that the majority of them identified areas for improvement. Specifically, they expressed a preference for a single system to track their academic progress, manage academic requirements, and enroll in classes, rather than having to use multiple systems.
 
 <center><img src="{{ page.imageSIS | relative_url }}" alt="" style="width:auto;height:auto;"></center>
 
