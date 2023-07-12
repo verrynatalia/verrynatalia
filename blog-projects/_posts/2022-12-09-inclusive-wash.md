@@ -1,34 +1,26 @@
 ---
 layout: post
-title:  "Open Course on Taking Action to Achieve Inclusive WASH"
+title:  "Open Course: Taking Action to Achieve Inclusive WASH"
 date:   2022-11-30 17:00:00
 category: projects
 image: assets/images/WASH_open_course.png
 image2: assets/images/process_overview.png
 ---
 
-The self-paced online training course on disability-inclusive WASH is a joint product of WaterAid, UNICEF, and the World Bank Group. It is being hosted on UNICEF's online learning platform and is based on an existing 6-month online course developed by WaterAid.
+The course [Taking action to achieve disability-inclusive WASH](https://agora.unicef.org/course/info.php?id=40281) is a self-paced training developed by WaterAid, UNICEF, and the World Bank Group. Its aim is to raise awareness and provide information to staff and partners working in low and middle-income countries regarding disability-inclusive WASH projects. The course is divided into seven modules, each approximately 15 minutes in length. The modules are as follows:
 
-The new version of the course has been transformed into seven self-paced modules, each approximately 15 minutes in length. The table below provides a comparison of the modules and their lengths between the versions.
+1. Disability-inclusive WASH
+2. Meaningful participation of persons with disabilities
+3. Identifying and tackling barriers faced by persons with disabilities
+4. Accessibility to WASH services and supplies
+5. Empowerment and capacities development of the persons with disabilities
+6. Disability data collection and analysis
+7. Reflecting and taking action on disability-inclusive WASH
 
-| WaterAid training modules | Approximate length | Revised modules - 90-minute training | Approximate length |
-| --- |
-| Module 1: Understanding the rights to water and sanitation | ~85 minutes | 1. Disability-inclusive WASH | 10 minutes |
-| Module 2: Identifying and tackling barriers | ~160 minutes | 2. Meaningful participation of persons with disabilities | 15 minutes |
-| Module 3: Promoting participation and improving accountability | ~160 minutes | 3. Identifying and tackling barriers faced by persons with disabilities | 15 minutes |
-| Module 4: Designing universal WASH facilities and inclusive messaging | ~150 minutes | 4. Accessibility to WASH services and supplies | 15 minutes |
-| Module 5: Building effective partnerships for inclusive WASH | ~150 minutes | 5. Empowerment and capacities development of the persons with disabilities | 15 minutes |
-| Module 6: Reflecting and taking action | ~75 minutes | 6. Disability data collection and analysis | 15 minutes |
-| N/A | N/A | 7. Reflecting and taking action on disability-inclusive WASH | 10 minutes |
-| Learning time | ~780 minutes | Revised learning time | 90-minutes |
+The course is accessible through UNICEF's learning platform Agora.
 
 #### Learning Design
 
-With the aim of increasing staff and partners' capacity to carry out inclusive and empowering water, sanitation, and hygiene (WASH) work, the [Taking action to achieve inclusive WASH](https://learninghub.wateraid.org/course/view.php?id=214) 6-month course was transformed into the 90-minute course [Taking action to achieve disability-inclusive WASH](https://agora.unicef.org/course/info.php?id=40281). We follow the high-level process depicted in the figure below.
-
-<center><img src="{{ page.image2 | relative_url }}" alt="" style="width:auto;height:auto;"></center>
-
-The storyboard/scripts of the 'Taking Action to Achieve Inclusive WASH' course were recreated in MS Word format. The storyboards/scripts served as the basis for adapting/developing the content of the new modules. Subject matter experts (SMEs), especially SMEs, worked closely with me to revise the content. I created a [work plan](https://docs.google.com/document/d/14e8Ke_t4zeNaIWjWBEbeddBH6aobC5Na/edit?usp=sharing&ouid=107391323571094635235&rtpof=true&sd=true) with milestones and deadlines to facilitate our progress. Throughout the modules, learners will find media and interactive elements, as well as knowledge checks with automatic feedback. Additionally, the following considerations were taken into account when working on this course:
 - Content: All content modules follow a similar structure to facilitate learners' navigation, including a welcome message, navigation help, glossary, lessons (with articles, videos, knowledge checks, case studies, etc.), takeaways, additional resources, and a quiz.
 - Quiz: At the end of each module, a short quiz with unlimited attempts and instant feedback will be presented to help participants self-assess their knowledge and understanding of the topics. The questions will be in a multiple-choice format and provide feedback on wrong answers. The minimum passing score is 80%.
 - Resources: Additional documents and links to resources will be hosted on the course page to ensure quality assurance.
@@ -48,5 +40,3 @@ The storyboard/scripts of the 'Taking Action to Achieve Inclusive WASH' course w
 - Compatibility: The SCORM packages are compatible with Totara and Moodle platforms.
 - Publishing settings: The modules will be published in SCORM 1.2 format. They will allow multiple attempts and save the participants' progress and completion status (complete/incomplete).
 - Progress Marking: Participants can complete modules at their own pace, and the platform will automatically save their progress.
-
-|The course [Taking action to achieve inclusive WASH](https://agora.unicef.org/course/info.php?id=40281) is now open for enrollment on UNICEF's online learning platform. To access the course, you will need to register for a free account.|
